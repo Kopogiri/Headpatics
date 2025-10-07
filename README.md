@@ -1,4 +1,4 @@
-# Tsunaptics Headpat Haptics Hardware
+# HeadpaticsHeadpat Haptics Hardware
 
 A hardware offshoot of Senseshift to create headpat haptics. 
 
